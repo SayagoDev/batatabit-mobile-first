@@ -1,0 +1,13 @@
+.currency-table { margin: 0; }
+.table-slider::-webkit-scrollbar { height: 0; }
+@media screen and (min-width: 930px) {
+   .cards-c {
+     display: flex;
+     flex-wrap: wrap;
+     width: 93rem;
+     margin: 0 auto;
+    }
+}
+@media screen and (min-width: 650px) { .plans__slider::-webkit-scrollbar {height: 0;} }
+@media screen and (min-width: 980px) { .plans__slider {justify-content: center;}}
+footer {justify-content: space-around;}
